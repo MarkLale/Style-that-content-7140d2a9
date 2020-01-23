@@ -1,0 +1,20 @@
+.navbar     { display: flex;
+            justify-content: space-around;
+            background-color: blue;
+            padding: 4px
+ }
+
+.content     {display: flex;
+            flex-wrap: wrap; 
+            justify-content: center;
+            background-color: lightBlue;
+}
+.content>p {display: flex;
+            flex-wrap: wrap; 
+            justify-content: center;
+            width: 100%
+
+}
+.news         {width:33%;
+            background-color: lightBlue;
+}
